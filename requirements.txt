@@ -1,0 +1,13 @@
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+Pillow>=10.0.0
+reportlab>=4.0.0
+python-pptx>=0.6.23
+requests>=2.31.0
+urllib3>=2.0.0
+playwright>=1.42.0
+opencv-python-headless>=4.8.0
+sqlalchemy>=2.0.0
+google-genai
+google-generativeai
